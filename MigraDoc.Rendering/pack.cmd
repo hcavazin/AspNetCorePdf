@@ -1,0 +1,1 @@
+nuget pack .\PDFsharp-MigraDoc.nuspec -OutputDirectory d:\myfeed
